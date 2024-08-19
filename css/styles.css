@@ -170,6 +170,10 @@ ul.timeline-desc li.flex-box div:nth-of-type(2) {
   font-size: 24px;
 }
 
+ul.timeline-desc p {
+  margin: 0;
+}
+
 .timeline-subimage {
   margin-left: auto;
   width: 15%;
